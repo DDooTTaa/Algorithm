@@ -1,5 +1,5 @@
 /**
- * 시간 초과로 타임 아웃이 나는 코드 test
+ * 시간 초과로 타임 아웃이 나는 코드 깃 잔디 테스트
  */
 function solution(players, callings) {
     callings.forEach(v => {
