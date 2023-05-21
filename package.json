@@ -1,0 +1,26 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "description": "*** ALGOLITHM",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DDooTTaa/Algorithm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DDooTTaa/Algorithm/issues"
+  },
+  "homepage": "https://github.com/DDooTTaa/Algorithm#readme",
+  "devDependencies": {
+    "@babel/core": "^7.21.8",
+    "@babel/preset-env": "^7.21.5",
+    "@types/jest": "^29.5.1",
+    "jest": "^29.5.0"
+  }
+}
