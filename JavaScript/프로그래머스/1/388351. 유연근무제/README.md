@@ -1,6 +1,6 @@
 # [level 1] 유연근무제 - 388351 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/388351) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/388351#) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 09월 14일 11:30:13
+2025년 09월 14일 11:30:00
 
 ### 문제 설명
 
